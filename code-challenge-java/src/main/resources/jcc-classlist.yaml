@@ -1,0 +1,7 @@
+root:  dev.balamt.code.challenge
+categories:
+  - name: thirdlargestnumber
+    classes:
+      classname:
+        - ThirdLargestNoWOCollectionApp
+        - ThirdLargestNoWStreamsApp
