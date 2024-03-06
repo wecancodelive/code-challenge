@@ -24,3 +24,12 @@
 | [FibonacciUsingForLoopApp.java](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingForLoopApp.java)     | [Read More](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingForLoopApp.md)   |
 | [FibonacciUsingRecursionApp.java](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingRecursionApp.java) | [Read More](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingRecursionApp.md) |
 | [FibonacciUsingStreamsApp.java](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingStreamsApp.java)     | [Read More](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingStreamsApp.md)   |
+
+
+##Factorial 
+
+| Code                                                                                                                   | Reference (MD file)                                                                            |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [FactorialUsingForApp.java](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingForApp.java)             | [Read More](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingForApp.md)       |
+| [FactorialUsingStreamsApp.java](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingStreamsApp.java)     | [Read More](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingStreamsApp.md)   |
+| [FactorialUsingRecursiveApp.java](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingRecursiveApp.java) | [Read More](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingRecursiveApp.md) |
