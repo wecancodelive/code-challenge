@@ -42,6 +42,26 @@ public class JavaCodeChallengeUtil {
         System.out.print(sb);
     }
 
+    public static void printLoop(Object... msg) {
+        StringBuilder sb = new StringBuilder();
+        for (Object line : msg
+        ) {
+            sb.append(line);
+            sb.append(" ");
+        }
+        System.out.print(sb);
+    }
+
+    public static void printLoopWithCommaSeparation(Object... msg) {
+        StringBuilder sb = new StringBuilder();
+        for (Object line : msg
+        ) {
+            sb.append(line);
+            sb.append(", ");
+        }
+        System.out.print(sb);
+    }
+
     public static void printDoc(Class className) {
         String packagePath = className.getPackageName().replace(".", "/");
         String docFileName = className.getSimpleName();
