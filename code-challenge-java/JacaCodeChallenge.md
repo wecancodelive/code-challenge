@@ -17,7 +17,7 @@
 | [ThirdLargestNoWArraysApp.java](./src/main/java/dev/balamt/code/challenge/thirdlargestnumber/ThirdLargestNoWArraysApp.java)           | [Read More](./src/main/java/dev/balamt/code/challenge/thirdlargestnumber/ThirdLargestNoWArraysApp.md)      |
 | [ThirdLargestNoWStreamsApp.java](./src/main/java/dev/balamt/code/challenge/thirdlargestnumber/ThirdLargestNoWStreamsApp.java)         | [Read More](./src/main/java/dev/balamt/code/challenge/thirdlargestnumber/ThirdLargestNoWStreamsApp.md)     |
 
-## Fibonacci Series
+## [Fibonacci Series](./src/main/java/dev/balamt/code/challenge/fibonacci)
 
 | Code                                                                                                                   | Reference (MD file)                                                                            |
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -26,10 +26,16 @@
 | [FibonacciUsingStreamsApp.java](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingStreamsApp.java)     | [Read More](./src/main/java/dev/balamt/code/challenge/fibonacci/FibonacciUsingStreamsApp.md)   |
 
 
-##Factorial 
-
+##[Factorial](./src/main/java/dev/balamt/code/challenge/factorial)
 | Code                                                                                                                   | Reference (MD file)                                                                            |
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [FactorialUsingForApp.java](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingForApp.java)             | [Read More](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingForApp.md)       |
 | [FactorialUsingStreamsApp.java](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingStreamsApp.java)     | [Read More](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingStreamsApp.md)   |
 | [FactorialUsingRecursiveApp.java](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingRecursiveApp.java) | [Read More](./src/main/java/dev/balamt/code/challenge/factorial/FactorialUsingRecursiveApp.md) |
+
+##[Sum of Digits in a Number](./src/main/java/dev/balamt/code/challenge/sumofdigits)
+| Code                                                                                                                         | Reference (MD file)                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| [SumOfDigitsUsingRecursionApp.java](./src/main/java/dev/balamt/code/challenge/sumofdigits/SumOfDigitsUsingRecursionApp.java) | [Read More](./src/main/java/dev/balamt/code/challenge/sumofdigits/SumOfDigitsUsingRecursionApp.md)  |
+| [SumOfDigitsUsingStreamsApp.java](./src/main/java/dev/balamt/code/challenge/sumofdigits/SumOfDigitsUsingStreamsApp.java)     | [Read More](./src/main/java/dev/balamt/code/challenge/sumofdigits/SumOfDigitsUsingStreamsApp.md)    |
+| [FactorialUsingRecursiveApp.java](./src/main/java/dev/balamt/code/challenge/sumofdigits/SumOfDigitsUsingWhileLoopApp.java)   | [Read More](./src/main/java/dev/balamt/code/challenge/sumofdigits/SumOfDigitsUsingWhileLoopApp.md)  |
